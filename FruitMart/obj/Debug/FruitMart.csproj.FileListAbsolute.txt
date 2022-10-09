@@ -1,0 +1,11 @@
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\bin\Debug\FruitMart.exe.config
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\bin\Debug\FruitMart.exe
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\bin\Debug\FruitMart.pdb
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.csproj.AssemblyReference.cache
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.Form1.resources
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.Properties.Resources.resources
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.csproj.GenerateResource.cache
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.csproj.CoreCompileInputs.cache
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.exe
+C:\Users\Moeez-Rajpoot\Desktop\VP Assignments\FruitMart\obj\Debug\FruitMart.pdb
